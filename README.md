@@ -1,4 +1,4 @@
-<h1>Hi, Mencha Tembong! <br/><a href="https://github.com/MenchaTembong">Health Informatics Student</a>, <a href="https://www.linkedin.com/in/mencha-tembong-669078225/">Clinical Laboratory Scientist</a>, <a href="https://www.youtube.com/@menchaemmanuel3762">YouTuber</a></h1>
+<h1>Hi, Mencha Tembong! <br/><a href="https://github.com/MenchaTembong">Health Informatics Student</a>, <a href="https://www.linkedin.com/in/mencha-tembong-669078225/">Clinical Laboratory Scientist</a>, 
 Health Informatics candidate building digital health tools that improve clinical workflows, decision support, and data-driven care
 <h2>Areas of Focus:</h2>
 Clinical Decision Support
