@@ -1,5 +1,5 @@
 <h1>Hi, Mencha Tembong! <br/><a href="https://github.com/MenchaTembong">Health Informatics Student</a>, <a href="https://www.linkedin.com/in/mencha-tembong-669078225/">Clinical Laboratory Scientist</a>, 
-Health Informatics candidate building digital health tools that improve clinical workflows, decision support, and data-driven care
+
 <h2>Areas of Focus:</h2>
 Clinical Decision Support
 Interoperability (FHIR, HL7 concepts, APIs) |
@@ -9,7 +9,7 @@ Product thinking (workflows, UX, evaluation plans)|
 
 - <b>🚑Clinical Decision Support Tool for Stroke Management</b>
   - [Developed using JS and Data flow Models](https://github.com/MenchaTembong/Clinical-Decision-Support-Tool-for-Stroke-Management/blob/main/README.md)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>From Code to Care: Building a Heart Health Risk Screener with Streamlit</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
