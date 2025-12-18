@@ -13,7 +13,6 @@ Product thinking (workflows, UX, evaluation plans)|
   - [Building Using Jupiter Notebook ](https://github.com/MenchaTembong/CardioRural/blob/main/README.md) <b><i>(prototype)</b></i>
 
   ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <a href="https://www.credly.com/badges/c2b9ac79-8c35-4037-b966-bf812753231c/linked_in_profile" target="_blank">
   <img src="https://img.shields.io/badge/-AI for Project Management (PMI)-0A66C2?style=for-the-badge&logo=projectmanagementinstitute&logoColor=white" />
