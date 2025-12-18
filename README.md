@@ -7,10 +7,12 @@ Health data analytics (SQL, Python, dashboards)|
 Product thinking (workflows, UX, evaluation plans)|
 <h2>👨‍💻 Digital Health Projects:</h2>
 
-- <b>🚑Clinical Decision Support Tool for Stroke Management</b>
-  - [Developed using JS and Data flow Models](https://github.com/MenchaTembong/Clinical-Decision-Support-Tool-for-Stroke-Management/blob/main/README.md)
+
 - <b>From Code to Care: Building a Heart Health Risk Screener with Streamlit</b>
   - [Building Using Jupiter Notebook ](https://github.com/MenchaTembong/CardioRural/blob/main/README.md) <b><i>(prototype)</b></i>
+  
+ <b>🚑Clinical Decision Support Tool for Stroke Management</b>
+  - [Developed using JS and Data flow Models](https://github.com/MenchaTembong/Clinical-Decision-Support-Tool-for-Stroke-Management/blob/main/README.md)
 
   ## Certifications
 <div>
@@ -30,7 +32,7 @@ Product thinking (workflows, UX, evaluation plans)|
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [How to best manage change within projects ](https://www.youtube.com/watch?v=QuwXBBdCB4I)
+- [How to best manage change within IT projects ](https://www.youtube.com/watch?v=QuwXBBdCB4I)
 
 <h2> 🤳 Connect with me:</h2>
 
