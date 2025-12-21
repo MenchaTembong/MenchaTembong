@@ -1,6 +1,6 @@
 <h1>Hi, Mencha Tembong! <br/><a href="https://github.com/MenchaTembong">Health Informatics Student</a>, <a href="https://www.linkedin.com/in/mencha-tembong-669078225/">Clinical Laboratory Scientist</a>, 
 
-<h2>Areas of Focus:</h2>
+<h2>Areas of interest:</h2>
 Clinical Decision Support
 Interoperability (FHIR, HL7 concepts, APIs) |
 Health data analytics (SQL, Python, dashboards)|
