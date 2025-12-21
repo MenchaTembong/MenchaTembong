@@ -19,7 +19,7 @@ Product thinking (workflows, UX, evaluation plans)|
 <a href="https://www.credly.com/badges/c2b9ac79-8c35-4037-b966-bf812753231c/linked_in_profile" target="_blank">
   <img src="https://img.shields.io/badge/-AI for Project Management (PMI)-0A66C2?style=for-the-badge&logo=projectmanagementinstitute&logoColor=white" />
 </a>
-<a href="(https://drive.google.com/file/d/1eQtFHSnk8-_XVw-0-PBuzGZlNSU--_yv/view)" target="_blank">
+<a href="https://drive.google.com/file/d/1eQtFHSnk8-_XVw-0-PBuzGZlNSU--_yv/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/FHIR®%20Fundamentals FOR ARCHITECTURE-006341?style=for-the-badge&logo=australia&logoColor=white" />
 </a>
 <a href="https://certifications.asana.com/6515eb45-091c-43a4-a0a8-001c881ee5b9#acc.e0oGLuiK" target="_blank">
