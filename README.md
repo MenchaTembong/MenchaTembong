@@ -12,7 +12,7 @@ Product thinking (workflows, UX, evaluation plans)|
   - [Building Using Jupiter Notebook ](https://github.com/MenchaTembong/CardioRural/blob/main/README.md) <b><i>(prototype)</b></i>
   
  <b>🚑Clinical Decision Support Tool for Stroke Management</b>
-  - [Test my Prototype](https://menchatembong.github.io/Stoke-Nav-Web-Prototype/)
+  - [Test my Prototype STOKE NAV (Formerly STROKE KINESIS) ](https://menchatembong.github.io/Stoke-Nav-Web-Prototype/)
   - [Developed using JS and Data flow Models](https://github.com/MenchaTembong/Clinical-Decision-Support-Tool-for-Stroke-Management/blob/main/README.md)
 
   ## Certifications
