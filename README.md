@@ -15,6 +15,11 @@ Product thinking (workflows, UX, evaluation plans)|
   - [Test my Prototype STOKE NAV (Formerly STROKE KINESIS) ](https://menchatembong.github.io/Stoke-Nav-Web-Prototype/)
   - [Developed using JS and Data flow Models](https://github.com/MenchaTembong/Clinical-Decision-Support-Tool-for-Stroke-Management/blob/main/README.md)
 
+- <b>🧪 Healthcare Interoperability with OpenEMR, FHIR R4 and LOINC</b>
+  - [See the write-ups, evidence and sanitised FHIR payloads](https://github.com/MenchaTembong/openemr-fhir-interoperability-Project) <b><i>(COMP 4090 work-integrated project)</b></i>
+  - [Securing a FHIR R4 API, importing LOINC and ICD-10, and testing a laboratory order end to end](https://menchatembong.github.io/openemr-fhir-interoperability-Project/)
+  - [Run the checks yourself: Postman collection and a one-command local OpenEMR](https://github.com/MenchaTembong/openemr-fhir-interoperability-Project/blob/main/TESTING.md)
+
   ## Certifications
 <div>
 <a href="https://www.credly.com/badges/c2b9ac79-8c35-4037-b966-bf812753231c/linked_in_profile" target="_blank">
