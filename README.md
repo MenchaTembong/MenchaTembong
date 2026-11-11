@@ -8,17 +8,17 @@ Product thinking (workflows, UX, evaluation plans)|
 <h2>👨‍💻 Digital Health Projects:</h2>
 
 
+- <b>🧪 Healthcare Interoperability with OpenEMR, FHIR R4 and LOINC</b>
+  - [See the write-ups, evidence and sanitised FHIR payloads](https://github.com/MenchaTembong/openemr-fhir-interoperability-Project) <b><i>(COMP 4090 work-integrated project)</b></i>
+  - [Securing a FHIR R4 API, importing LOINC and ICD-10, and testing a laboratory order end to end](https://menchatembong.github.io/openemr-fhir-interoperability-Project/)
+  - [Run the checks yourself: Postman collection and a one-command local OpenEMR](https://github.com/MenchaTembong/openemr-fhir-interoperability-Project/blob/main/TESTING.md)
+
 - <b>From Code to Care: Building a Heart Health Risk Screener with Streamlit</b>
   - [Building Using Jupiter Notebook ](https://github.com/MenchaTembong/CardioRural/blob/main/README.md) <b><i>(prototype)</b></i>
   
  <b>🚑Clinical Decision Support Tool for Stroke Management</b>
   - [Test my Prototype STOKE NAV (Formerly STROKE KINESIS) ](https://menchatembong.github.io/Stoke-Nav-Web-Prototype/)
   - [Developed using JS and Data flow Models](https://github.com/MenchaTembong/Clinical-Decision-Support-Tool-for-Stroke-Management/blob/main/README.md)
-
-- <b>🧪 Healthcare Interoperability with OpenEMR, FHIR R4 and LOINC</b>
-  - [See the write-ups, evidence and sanitised FHIR payloads](https://github.com/MenchaTembong/openemr-fhir-interoperability-Project) <b><i>(COMP 4090 work-integrated project)</b></i>
-  - [Securing a FHIR R4 API, importing LOINC and ICD-10, and testing a laboratory order end to end](https://menchatembong.github.io/openemr-fhir-interoperability-Project/)
-  - [Run the checks yourself: Postman collection and a one-command local OpenEMR](https://github.com/MenchaTembong/openemr-fhir-interoperability-Project/blob/main/TESTING.md)
 
   ## Certifications
 <div>
