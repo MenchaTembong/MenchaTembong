@@ -38,6 +38,7 @@
 <a href="https://www.credly.com/badges/7f84e575-4863-413a-b3a2-7a41f3ad90b2/linked_in_profile" target="_blank">
   <img alt="IBM Data" src="https://img.shields.io/badge/-IBM%20Data-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
 </a>
+<img alt="ECBA, Entry Certificate in Business Analysis (IIBA)" src="https://img.shields.io/badge/-ECBA%20Entry%20Certificate%20in%20Business%20Analysis%20(IIBA)-5A2D82?style=for-the-badge" />
 </div>
 
 <h2>📺 Popular YouTube Videos</h2>
